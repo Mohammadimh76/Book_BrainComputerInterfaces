@@ -69,11 +69,11 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 2</b>  |   |   | 
 |-----------|--------------------|-----------|
-|2-1 |2-6 |2-11 |
-|2-2 |2-7 |2-12 |
-|2-3 |2-8 |2-13 |
-|2-4 |2-9 |2-14 |
-|2-5 |2-10 | |
+|2-1 Introduction |2-6 Silicon-based microelectrodes |2-11 Non-invasive sensor for BCI |
+|2-2 World overview of BSI sensor |2-7 Ceramic-based microelectrodes |2-12 The main challenges for the production of BCI sensors |
+|2-3 Major types of BCI technology sensors |2-8 Polyamide-based microelectrodes |2-13 Summary and Conclusion |
+|2-4 Micro-electrode wire type |2-9 Connectors |2-14 Reference |
+|2-5 Micro electrodes made of mass |2-10 ECoG strip electrode | |
 
 
 </article>
@@ -86,8 +86,8 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
 |-----------|--------------------|-----------|
-|3-1 |3-3 |3-5 |
-|3-2 |3-4 | |
+|3-1 Introduction |3-3 Key Challenge: Consistent, long-lasting and efficient integration |3-5 Reference |
+|3-2 An overview of the world of BCI biological relationships |3-4 Summary and Conclusion | |
 
 </article>
 
@@ -100,11 +100,11 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
 |-----------|--------------------|-----------|
-|4-1 |4-6 |4-11 |
-|4-2 |4-7 |4-12 |
-|4-3 |4-8 |4-13 |
-|4-4 |4-9 |4-14 |
-|4-5 |4-10 | |
+|4-1 Introduction |4-6 EEG / ECoG recordings |4-11 Feature translation |
+|4-2 Multi-piece array techniques |4-7 Spontaneous ECoG decoding for Intent |4-12 Online evaluation |
+|4-3 Binned data models |4-8 Extract time and domain attributes |4-13 Summary and Conclusion |
+|4-4 Spike - train methods (point process) |4-9 Extract frequency-amplitude attribute |4-14 Reference |
+|4-5 Relationships between spike trains and local field potentials |4-10 Space filter | |
 
 </article>
 
@@ -117,12 +117,12 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
 |-----------|--------------------|-----------|
-|5-1 |5-7 |5-13 |
-|5-2 |5-8 |5-14 |
-|5-3 |5-9 |5-15 |
-|5-4 |5-10 |5-16 |
-|5-5 |5-11 |5-17 |
-|5-6 |5-12 |5-18 |
+|5-1 Introduction: Restoration of movement in paralyzed patients |5-7 Destroy key capabilities for controlled ROBOTICS from the brain |5-13 Requires Biomimetic arm / foot prosthesis robots with high degree of freedom (DOF) |
+|5-2 EEG-based computer and brain interface |5-8 Extract engine commands from monkey brains |5-14 ROBOT research at SCUOLA SUPERIORE sant |
+|5-3 Direct relationship between brain and computer |5-9 Biofeedback coding robot arm change |5-15 The reason for making Biomimetic hand prostheses |
+|5-4 Different approaches to BCI research worldwide |5-10 Brain control multi-output functions |5-16 Research approach to biotechnology in SSA |
+|5-5 Recording, extracting and decoding neural motor commands |5-11 Need for sensor feedback to facilitate control of robotic movements |5-17 Use of direct BCIs to control biomimetic robotic prostheses |
+|5-6 Use of multivariate regression analysis (MRA) to predict organ movement kinematics |5-12 Need to control more degrees of freedom in robots controlled from the brain |5-18 Reference |
 
 </article>
 
