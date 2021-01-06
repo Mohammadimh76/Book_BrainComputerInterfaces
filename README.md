@@ -185,8 +185,8 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 9</b>  |   |   | 
 |-----------|--------------------|-----------|
-|9-1 |9-2 |9-3 |
-|9-4 | | |
+|9-1 Organization and research and investigation of BCI |9-2 Funding and financing mechanisms |9-3 Transfer and trade |
+|9-4 Reference | | |
 
 
 </article>
