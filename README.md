@@ -25,15 +25,15 @@ One of the most
 <div class="nav">
 
 ## Contents
-* [Chapter 1](#chapter-1): <i></i>
-* [Chapter 2](#chapter-2): <i></i>
-* [Chapter 3](#chapter-3): <i></i>
-* [Chapter 4](#chapter-4): <i></i>
-* [Chapter 5](#chapter-5): <i></i>
-* [Chapter 6](#chapter-6): <i></i>
-* [Chapter 7](#chapter-7): <i></i>
-* [Chapter 8](#chapter-8): <i></i>
-* [Chapter 9](#chapter-9): <i></i>
+* [Chapter 1](#chapter-1): <i>Brain Computer Interfaces</i>
+* [Chapter 2](#chapter-2): <i>Name of sensor technology</i>
+* [Chapter 3](#chapter-3): <i>Bio-non-biological interface</i>
+* [Chapter 4](#chapter-4): <i>BMI / BCI modeling and signal processing</i>
+* [Chapter 5](#chapter-5): <i>Hardware implementation</i>
+* [Chapter 6](#chapter-6): <i>BCI Electrical Stimulation and Rehabilitation Applications</i>
+* [Chapter 7](#chapter-7): <i>Non-invasive communication systems</i>
+* [Chapter 8](#chapter-8): <i>Cognitive and emotional neuroprostheses</i>
+* [Chapter 9](#chapter-9): <i>Organization of research, budget, translation, trade and education issues</i>
 
 
 </div>
@@ -43,7 +43,7 @@ One of the most
 <article id="chapter-1">
 
 ## Chapter 1
-- ### Introduction to Legal Hacking
+- ### Brain Computer Interfaces
 
 
 #### Topics in this chapter include
@@ -63,7 +63,7 @@ One of the most
 <article id="chapter-2">
 
 ## Chapter 2
-- ### Information gathering and social engineering
+- ### Name of sensor technology
 
 
 #### Topics in this chapter include
@@ -81,7 +81,7 @@ One of the most
 <article id="chapter-3">
 
 ## Chapter 3
-- ### Scanning and enumeration
+- ### Bio-non-biological interface
 
 #### Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
@@ -94,7 +94,7 @@ One of the most
 <article id="chapter-4">
 
 ## Chapter 4
-- ### Hack system
+- ### BMI / BCI modeling and signal processing
 
 
 #### Topics in this chapter include
@@ -111,7 +111,7 @@ One of the most
 <article id="chapter-5">
 
 ## Chapter 5
-- ### Worm, Virus, Backdoor, Trojan
+- ### Hardware implementation
 
 
 #### Topics in this chapter include
@@ -129,7 +129,7 @@ One of the most
 <article id="chapter-6">
 
 ## Chapter 6
-- ### Sniffers
+- ### BCI Electrical Stimulation and Rehabilitation Applications
 
 
 #### Topics in this chapter include
@@ -144,7 +144,7 @@ One of the most
 <article id="chapter-7">
   
 ## Chapter 7
-- ### Denial of Service and Session hijacking
+- ### Non-invasive communication systems
 
 
 #### Topics in this chapter include
@@ -160,7 +160,7 @@ One of the most
 <article id="chapter-8">
 
 ## Chapter 8
-- ### Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
+- ### Cognitive and emotional neuroprostheses
 
 
 #### Topics in this chapter include
@@ -176,7 +176,7 @@ One of the most
 <article id="chapter-9">
 
 ## Chapter 9
-- ### SQL Injection and Buffer Overflow
+- ### Organization of research, budget, translation, trade and education issues
 
 
 #### Topics in this chapter include
