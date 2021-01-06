@@ -171,7 +171,9 @@ Conditions such as amyotrophic lateral sclerosis (ALS), stroke, and severe brain
 The BCI system consists of sensors that extract neural activity, signal processing, and a translation algorithm that generates device commands to work with an external device (Wolpaw et al., 2002). The loop is completed by external device feedback to the BCI system user. These key elements of a BCI communication system are shown in Figure 7.1. As shown in the figure, there is a flow of information through each of these elements that eventually returns to the user. An efficient BCI system is a closed-loop, real-time system. In the case of BCI communication systems, the external device serves as a means of communicating with the user.<br>
 There are a number of BCI communication systems designed to prove the principle. These are based on a variety of neural properties such as slow cortical potential (Birbaumer et al., 1999), motor potentials (Mason et al., 2004), coordination and event-related coordination (Pfurtscheller et al., 1993; Wolpaw et al., 1991). Sustainable (Jones et al., 2003) and the potentials of P300 (Farrell and Duncin, 1988). These systems typically use surface-recorded EEG. Non-invasive EEG recordings are a safe alternative to invasive procedures that may provide useful BCI communication devices for people with disabilities.<br>
 
-
+<p align="center">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/Mohammadimh76/Book_BrainComputerInterfaces/main/chapter7.jpeg">
+</p>
 
 Basic components of a BCI communication system. Signals flow from the user to receive the signal, process the signal, control the device, and then return it to the user. Efficient operation requires the completion of this process in real time.<br>
 
