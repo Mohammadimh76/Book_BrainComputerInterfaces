@@ -169,10 +169,10 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 8</b>  |   |   | 
 |-----------|--------------------|-----------|
-|8-1 |8-5 |8-9 |
-|8-2 |8-6 |8-10 |
-|8-3 |8-7 |8-11 |
-|8-4 |8-8 |8-12 |
+|8-1 Introduction |8-5 Proof of concept in hippocampal incision |8-9 Neurofeedback for ADHD |
+|8-2  VOLITIONAL PROVISIONS |8-6 Hippocampal neuroprosthesis for animal behavior |8-10 Neurofeedback to control emotions and social personality disorders |
+|8-3 Emotional computers and robots |8-7 Neurofeedback |8-11 Summary and Conclusion |
+|8-4 Memorable features |8-8 Neurofeedback for epilepsy |8-12 Reference |
 
 </article>
 
