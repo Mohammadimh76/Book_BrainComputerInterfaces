@@ -33,7 +33,10 @@ One of the most
 * [Chapter 6](#chapter-6): <i>BCI Electrical Stimulation and Rehabilitation Applications</i>
 * [Chapter 7](#chapter-7): <i>Non-invasive communication systems</i>
 * [Chapter 8](#chapter-8): <i>Cognitive and emotional neuroprostheses</i>
-* [Chapter 9](#chapter-9): <i>Organization of research, budget, translation, trade and education issues</i>
+* [Chapter 9](#chapter-9): <i>Organization of research, budget, translation, trade and education issues</i><br>
+
+🔸[Authors](#authors)<br>
+🔸[Demo](#demo)<br>
 
 
 </div>
@@ -188,9 +191,9 @@ One of the most
 
 </article>
 
-</main>
-
 ---
+
+<article id="authors">
 
 ## Authors
 
@@ -231,12 +234,22 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢" 👉 [mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
 📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
 
+</article>
+
 ---
 ---
+
+<article id="demo">
+  
+## Demo
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
+
+</article>
+
+</main>
 
 
 
