@@ -48,10 +48,11 @@ One of the most
 ## Chapter 1
 - ### Brain Computer Interfaces
 Brain-computer communication deals with the creation of communication paths between the brain and external devices. BCI devices can be broadly classified depending on the electrodes' location to detect and measure neurons in the brain: In invasive devices, electrodes are placed on the scalp, and electroencephalography or electrocorticography is used detect neuronal activity. This WTEC study is designed to gather information on the global situation and trends in BCI research and disseminate it to government decision-makers and the research community. This study examines the state of sensor technology. It evaluates biocompatibility, data analysis and modeling, hardware implementation, device engineering, functional electrical stimulation, useful communication devices, and cognitive and emotional weakness in academic and industry research. The jury identified several key trends in evolving BCI research in North America, Europe, and Asia:<br>
+
 - BCI research is widespread around the world, and its size is increasing.<br>
 - BCI research is rapidly approaching the level of first-generation medical application; Also, BCI research is expected to accelerate quickly in the non-medical fields of business, particularly in the gaming, automotive, and robotics industries.<br>
-- The focus of BCI research around the world is entirely unequal, as non-invasive BCI devices are concentrated almost exclusively in North America; he does.<br>
-In terms of budget, BCIs and brain-controlled robotics programs have been the hallmark of recent European research and technology development.<br>
+- The focus of BCI research around the world is entirely unequal, as non-invasive BCI devices are concentrated almost exclusively in North America; he does. In terms of budget, BCIs and brain-controlled robotics programs have been the hallmark of recent European research and technology development.<br>
+
 Although neural networks are developing many government programs, private resources still significantly impact BCI research in North America. However, small research grants and little technology transfer research have effectively promoted the transition from basic research to prototypes. In Asia, China is investing heavily in life sciences and engineering, and investment in the BCI system and BCI-related research has increased incredibly rapidly.<br>
 Japanese universities, research institutes, and laboratories are also increasing their investment in BCI research.<br>
 Japan is powerful in pursuing non-medical applications and exploiting its expertise in BCI-controlled robotics.<br>
