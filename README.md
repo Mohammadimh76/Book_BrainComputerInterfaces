@@ -115,7 +115,8 @@ With all the signs, a full understanding of what needs to be done to continually
 
 ## Chapter 4
 - ### BMI / BCI modeling and signal processing
-
+Due to the large differences in biophysical properties between the multi-electrode array and the EEG / ECoG recording, this report deals with them separately. The signal processing methods required for spatial resolution, feature extraction, and intent interpretation depend on the choice of recording method, including electroencephalography (EEG), electrocorticography (ECoG), local field potentials (LFP), and possible single neuron recordings (units).<br>
+Brain system relationships (BMI) are significantly different from BCIs, although they have been proposed to solve the same problem: translating a person's goal into robotic commands. BCI works with macroscopic brain activity (mainly EEG) that is found to be related to behavior but is scattered and indistinct. Using existing knowledge of EEG research and machine learning techniques, BCI is now successful and ready for use in patients (see site reports in Appendices B and C); But their application in the full game is the functions required in the unlimited interaction of a subject with a limited environment. BMIs, on the other hand, examine the brain at many different levels of abstraction (microscopically as spikes and mesoscopically as local potentials, or LFPs) and thus offer potentially better performance at a more demanding cost. . Functional organization of the brain at these different levels, e.g., neural code, neural assembly and its cytoarchitecture. BCIs are likely to be confused with BMI when macroscopic information is incorporated. Due to this better integration of BMI with brain signals, deeper knowledge of neurophysiology is required to perform this type of research than its BCI counterpart. Larger multidisciplinary teams are needed to advance research in this area. All successful groups in the United States have a combination of specialization in basic neuroscience (electrophysiology), computational neuroscience, signal processing, and advanced electronic and computer systems; And all this may not be enough yet!<br>
 
 #### Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
@@ -132,7 +133,8 @@ With all the signs, a full understanding of what needs to be done to continually
 
 ## Chapter 5
 - ### Hardware implementation
-
+The paralysis that negatively affects millions of people around the world has many causes, including trauma, stroke, infection, and autoimmune diseases. Primary damage can occur to the brain, spinal cord, spinal nerves, or the muscles themselves. In general, "paralysis" refers to the severe or complete loss of motor function, while "Paris" refers to relatively minor damage. Severe paralysis is a major problem, not only because patients do not lose the ability to lead a normal life, but also because of the high cost of caring for the patient. For example, patients with tetraplegic spinal cord injuries lose almost all of their voluntary motor function under the neck, but they also lose the sensation of touch, pain, temperature, and posture. Severe amyotrophic lateral sclerosis (ALS) is even worse, so patients can lose all motor function in their body.<br>
+Fortunately, recent publicity about spinal cord injury (SCI) has stepped up efforts to find a cure for SCI and other crippling diseases. Over the past 20 years, most research has focused on cell biology approaches that hope to generate neurotransmitters, transformed somatic cells, or embryonic stem cells to stimulate damaged nerve fibers to grow beyond the site of spinal cord injury, and hope to make synaptic contact In correct motor neurons. Although such an approach may one day provide the best treatment for paralysis, this area of research is only in its infancy. Given the current progress and the number of fractures required, it will take years for a real cure to be available; Therefore, these methods may not be useful for SCI patients in the short term.<br>
 
 #### Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
@@ -150,7 +152,7 @@ With all the signs, a full understanding of what needs to be done to continually
 
 ## Chapter 6
 - ### BCI Electrical Stimulation and Rehabilitation Applications
-
+Functional electrical stimulation (FES) is the controlled use of electrical current in peripheral nerves to produce beneficial muscle contractions in people with nervous system dysfunction. Over the past few decades, many different applications of FES technology have been developed (Figure 6.1) and these can be divided into two main categories. The first category includes systems that save lives by restoring the basic functions of independence. Probably the most well-known and widespread example of commercial FES technology is the pacemaker, which is used to reliably activate the heart muscle in people with impaired cardiac circulation. Other commercial technologies, such as the Vocare® system, are used to restore bladder function after spinal cord injury. FES diaphragm systems have the potential to eliminate the need for ventilation in severely paralyzed individuals. Also, nerve stimulation techniques that coordinate breathing and the swallowing reflex pathways are used to treat sleep apnea or to facilitate swallowing after a stroke...<br>
 
 #### Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
@@ -165,6 +167,13 @@ With all the signs, a full understanding of what needs to be done to continually
   
 ## Chapter 7
 - ### Non-invasive communication systems
+Conditions such as amyotrophic lateral sclerosis (ALS), stroke, and severe brain or spinal cord injury can control the nerve pathways that control the muscles or disrupt the muscles themselves. People who are severely affected may lose voluntary muscle control, including eye movements and breathing, and may be completely closed to their body, unable to communicate at all. Various studies over the past 15 years have shown that a registered scalp electroencephalogram (EEG) can be used as a basis for a brain-computer interface (Wolpaw et al., 2002). BCI can provide an alternative method of communication and control for people who have been severely injured.<br>
+The BCI system consists of sensors that extract neural activity, signal processing, and a translation algorithm that generates device commands to work with an external device (Wolpaw et al., 2002). The loop is completed by external device feedback to the BCI system user. These key elements of a BCI communication system are shown in Figure 7.1. As shown in the figure, there is a flow of information through each of these elements that eventually returns to the user. An efficient BCI system is a closed-loop, real-time system. In the case of BCI communication systems, the external device serves as a means of communicating with the user.<br>
+There are a number of BCI communication systems designed to prove the principle. These are based on a variety of neural properties such as slow cortical potential (Birbaumer et al., 1999), motor potentials (Mason et al., 2004), coordination and event-related coordination (Pfurtscheller et al., 1993; Wolpaw et al., 1991). Sustainable (Jones et al., 2003) and the potentials of P300 (Farrell and Duncin, 1988). These systems typically use surface-recorded EEG. Non-invasive EEG recordings are a safe alternative to invasive procedures that may provide useful BCI communication devices for people with disabilities.<br>
+
+
+
+Basic components of a BCI communication system. Signals flow from the user to receive the signal, process the signal, control the device, and then return it to the user. Efficient operation requires the completion of this process in real time.<br>
 
 
 #### Topics in this chapter include
