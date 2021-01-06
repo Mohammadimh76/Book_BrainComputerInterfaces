@@ -135,9 +135,9 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
 |-----------|--------------------|-----------|
-|6-1 |6-4 |6-7 |
-|6-2 |6-5 |6-8 |
-|6-3 |6-6 |6-9 |
+|6-1 Overview of functional electrical stimulation |6-4 Application areas of BCI controlled FCS systems |6-7 Potential therapeutic applications |
+|6-2 BCI IT applications worldwide |6-5 When additional command options are required |6-8 Discussion about performance |
+|6-3 How different types of BCI command symbols can be applied to FES |6-6 Better production and more natural control |6-9 Reference |
 
 </article>
 
@@ -150,7 +150,7 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
 |-----------|--------------------|-----------|
-|7-1 |7-5 |7-9 |
+|7-1 Introduction|7-5 |7-9 |
 |7-2 |7-6 |7-10 |
 |7-3 |7-7 |7-11 |
 |7-4 |7-8 | |
