@@ -150,10 +150,10 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
 |-----------|--------------------|-----------|
-|7-1 Introduction|7-5 |7-9 |
-|7-2 |7-6 |7-10 |
-|7-3 |7-7 |7-11 |
-|7-4 |7-8 | |
+|7-1 Introduction|7-5 Stable and fantastic selected pots |7-9 License for PRACTICAL communication systems |
+|7-2 Slow heavy trading |7-6 P300 evoked potentials |7-10 Summary and Conclusion |
+|7-3 Motor potentials |7-7 Conformity |7-11 Reference |
+|7-4 Event-related synchronizations and programming |7-8 Online evaluations | |
 
 </article>
 
