@@ -35,8 +35,8 @@ One of the most
 * [Chapter 8](#chapter-8): <i>Cognitive and emotional neuroprostheses</i>
 * [Chapter 9](#chapter-9): <i>Organization of research, budget, translation, trade and education issues</i><br>
 
-🔸[Authors](#authors)<br>
-🔸[Demo](#demo)<br>
+🔸 [Authors](#authors)<br>
+🔸 [Demo](#demo)<br>
 
 
 </div>
@@ -54,7 +54,7 @@ Japanese universities, research institutes and laboratories are also increasing 
 Japan is particularly strong in pursuing non-medical applications and exploiting its expertise in BCI-controlled robotics.<br>
 The jury concluded that there are many opportunities for global collaboration in bci research and related fields.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 1</b>  |   |   | 
 |-----------|--------------------|-----------|
 |1-1 Introduction |1-9 Results stated |1-17 Joint Global Research Opportunities |
@@ -78,7 +78,7 @@ Electrodes are enabling technologies that encrypt information from the brain by 
 The purpose of this chapter is to review the current sensor technologies used for BCI offensive and non-invasive approaches across North America, Europe and Asia. We have visited and / or interacted with key laboratories specializing in these fields. Although not entirely comprehensive, this chapter provides an overview of the key sensor technologies developed for potential BCI applications.<br>
 We look forward to working with Jason J. Bremister, a colleague at the University of Kentucky, to help us prepare this chapter.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 2</b>  |   |   | 
 |-----------|--------------------|-----------|
 |2-1 Introduction |2-6 Silicon-based microelectrodes |2-11 Non-invasive sensor for BCI |
@@ -103,7 +103,7 @@ Although it is believed that the response of brain tissue to implanted electrode
 This chapter first discusses what is difficult to understand and lays the foundation for common terms. It then provides evidence that invasive electrodes can act over long periods of time to demonstrate the concept that this new class of biomedical device currently thought to be biocompatible. This current situation then examines the understanding of what happens after electrode implantation in mammalian brains and tries to identify gaps in our knowledge if possible in an attempt to clarify what still needs to be done. The conclusion is that by discussing the various strategies being developed to modify the biotic-abiotic interface in an effort to achieve better integration into brain tissue and achieve superior device function. We warn that most technologies focused on enhancing device performance, as promising as it may seem, are still under development and have not been replicated enough in most parts to understand our ultimate understanding of its ultimate impact.<br>
 With all the signs, a full understanding of what needs to be done to continually interface different hardware with a variety of potential neural targets is still a long way off. It is now a major obstacle to understanding the science responsible for the loss of performance. Without understanding the increased and targeted budget for increasing the number of researchers working in this field, this understanding is unlikely to happen in the near future. The breadth and depth of science must advance, as has happened in cochlear implantation, so that this challenge shifts from a lack of scientific knowledge to engineering.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
 |-----------|--------------------|-----------|
 |3-1 Introduction |3-3 Key Challenge: Consistent, long-lasting and efficient integration |3-5 Reference |
@@ -118,7 +118,7 @@ With all the signs, a full understanding of what needs to be done to continually
 Due to the large differences in biophysical properties between the multi-electrode array and the EEG / ECoG recording, this report deals with them separately. The signal processing methods required for spatial resolution, feature extraction, and intent interpretation depend on the choice of recording method, including electroencephalography (EEG), electrocorticography (ECoG), local field potentials (LFP), and possible single neuron recordings (units).<br>
 Brain system relationships (BMI) are significantly different from BCIs, although they have been proposed to solve the same problem: translating a person's goal into robotic commands. BCI works with macroscopic brain activity (mainly EEG) that is found to be related to behavior but is scattered and indistinct. Using existing knowledge of EEG research and machine learning techniques, BCI is now successful and ready for use in patients (see site reports in Appendices B and C); But their application in the full game is the functions required in the unlimited interaction of a subject with a limited environment. BMIs, on the other hand, examine the brain at many different levels of abstraction (microscopically as spikes and mesoscopically as local potentials, or LFPs) and thus offer potentially better performance at a more demanding cost. . Functional organization of the brain at these different levels, e.g., neural code, neural assembly and its cytoarchitecture. BCIs are likely to be confused with BMI when macroscopic information is incorporated. Due to this better integration of BMI with brain signals, deeper knowledge of neurophysiology is required to perform this type of research than its BCI counterpart. Larger multidisciplinary teams are needed to advance research in this area. All successful groups in the United States have a combination of specialization in basic neuroscience (electrophysiology), computational neuroscience, signal processing, and advanced electronic and computer systems; And all this may not be enough yet!<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
 |-----------|--------------------|-----------|
 |4-1 Introduction |4-6 EEG / ECoG recordings |4-11 Feature translation |
@@ -136,7 +136,7 @@ Brain system relationships (BMI) are significantly different from BCIs, although
 The paralysis that negatively affects millions of people around the world has many causes, including trauma, stroke, infection, and autoimmune diseases. Primary damage can occur to the brain, spinal cord, spinal nerves, or the muscles themselves. In general, "paralysis" refers to the severe or complete loss of motor function, while "Paris" refers to relatively minor damage. Severe paralysis is a major problem, not only because patients do not lose the ability to lead a normal life, but also because of the high cost of caring for the patient. For example, patients with tetraplegic spinal cord injuries lose almost all of their voluntary motor function under the neck, but they also lose the sensation of touch, pain, temperature, and posture. Severe amyotrophic lateral sclerosis (ALS) is even worse, so patients can lose all motor function in their body.<br>
 Fortunately, recent publicity about spinal cord injury (SCI) has stepped up efforts to find a cure for SCI and other crippling diseases. Over the past 20 years, most research has focused on cell biology approaches that hope to generate neurotransmitters, transformed somatic cells, or embryonic stem cells to stimulate damaged nerve fibers to grow beyond the site of spinal cord injury, and hope to make synaptic contact In correct motor neurons. Although such an approach may one day provide the best treatment for paralysis, this area of research is only in its infancy. Given the current progress and the number of fractures required, it will take years for a real cure to be available; Therefore, these methods may not be useful for SCI patients in the short term.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
 |-----------|--------------------|-----------|
 |5-1 Introduction: Restoration of movement in paralyzed patients |5-7 Destroy key capabilities for controlled ROBOTICS from the brain |5-13 Requires Biomimetic arm / foot prosthesis robots with high degree of freedom (DOF) |
@@ -154,7 +154,7 @@ Fortunately, recent publicity about spinal cord injury (SCI) has stepped up effo
 - ### BCI Electrical Stimulation and Rehabilitation Applications
 Functional electrical stimulation (FES) is the controlled use of electrical current in peripheral nerves to produce beneficial muscle contractions in people with nervous system dysfunction. Over the past few decades, many different applications of FES technology have been developed (Figure 6.1) and these can be divided into two main categories. The first category includes systems that save lives by restoring the basic functions of independence. Probably the most well-known and widespread example of commercial FES technology is the pacemaker, which is used to reliably activate the heart muscle in people with impaired cardiac circulation. Other commercial technologies, such as the Vocare® system, are used to restore bladder function after spinal cord injury. FES diaphragm systems have the potential to eliminate the need for ventilation in severely paralyzed individuals. Also, nerve stimulation techniques that coordinate breathing and the swallowing reflex pathways are used to treat sleep apnea or to facilitate swallowing after a stroke...<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
 |-----------|--------------------|-----------|
 |6-1 Overview of functional electrical stimulation |6-4 Application areas of BCI controlled FCS systems |6-7 Potential therapeutic applications |
@@ -178,7 +178,7 @@ There are a number of BCI communication systems designed to prove the principle.
 Basic components of a BCI communication system. Signals flow from the user to receive the signal, process the signal, control the device, and then return it to the user. Efficient operation requires the completion of this process in real time.<br>
 
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
 |-----------|--------------------|-----------|
 |7-1 Introduction|7-5 Stable and fantastic selected pots |7-9 License for PRACTICAL communication systems |
@@ -195,7 +195,7 @@ Basic components of a BCI communication system. Signals flow from the user to re
 Previous chapters describe BCI programs that restore motor or communication functions in the brain for patients paralyzed by spinal cord injury or muscular dystrophy. These BCIs extract electrophysiological signals from healthy motor cortices and process them into control commands for computers, robotic machines, or communication devices. The brain can be directly damaged by genetic disorders or injuries caused by stroke or disease. Brain damage can lead to numerous cognitive impairments, including memory loss, mood or personality changes, and even behavioral changes that include motor or communication function. This chapter presents some of the neuroprosthetic developments that aim to address such cognitive or emotional dysfunction.<br>
 A big challenge for cognitive prostheses is that the neural code for their intended tasks is not yet clear. In contrast to motor cortex signals that regulate neural activity in terms of motion, velocity, and even force to be decoded ([Chapter 5](#chapter-5)), or large EEG components that are easily scalable ([Chapter 7](#chapter-7)), coding of cognitive processes still continues. Decoding the following cognitive prostheses has thus developed innovative strategies for overcoming or bypassing this barrier to using higher cognitive functions for BCI programs. The main feature of these prostheses is that they extract cognitive status information from neural signals to provide appropriate feedback to the user.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 8</b>  |   |   | 
 |-----------|--------------------|-----------|
 |8-1 Introduction |8-5 Proof of concept in hippocampal incision |8-9 Neurofeedback for ADHD |
@@ -211,7 +211,7 @@ A big challenge for cognitive prostheses is that the neural code for their inten
 - ### Organization of research, budget, translation, trade and education issues
 
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 9</b>  |   |   | 
 |-----------|--------------------|-----------|
 |9-1 Organization and research and investigation of BCI |9-2 Funding and financing mechanisms |9-3 Transfer and trade |
