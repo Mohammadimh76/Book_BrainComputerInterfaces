@@ -1,4 +1,4 @@
-# "Brain Computer Interfaces"
+# "Basics of Brain and Computer Interfaces"
 
 ---
 
