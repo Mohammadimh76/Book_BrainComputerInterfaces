@@ -49,14 +49,14 @@ One of the most
 #### Topics in this chapter include
 | <b>Chapter 1</b>  |   |   | 
 |-----------|--------------------|-----------|
-|1-1 |1-9 |1-17 |
-|1-2 |1-10 |1-18 |
-|1-3 |1-11 |1-19 |
-|1-4 |1-12 |1-20 |
-|1-5 |1-13 |1-21 |
-|1-6 |1-14 |1-22 |
-|1-7 |1-15 |1-23 |
-|1-8 |1-16 |1-24 |
+|1-1 Introduction |1-9 Results stated |1-17 Joint Global Research Opportunities |
+|1-2 Mission: WTEC |1-10 Executive Summary Theodore W. Berger |1-18 Highlights of the BCI R&D study in the US and Europe |
+|1-3 Foreword |1-11 Major Courses in BCI Research |1-19 Study Highlights: BCI Research and Development in Asia |
+|1-4 Brain Computer Interface Science |1-12 Scope of BCI research |1-20 Conclusion |
+|1-5 Related activities in NSF |1-13 Aggressive versus BCI noninvasive research |1-21 Opportunities for joint global research |
+|1-6 The Importance of BCI Research and Development to the American Economy and Society |1-14 BCI Medical Requirement |1-22 Background |
+|1-7 BCI-related job and training opportunities |1-15 BCI Research Scope, BCI Non-Medical |1-23 Methodology |
+|1-8 BCI discussion and innovation discussion and competitiveness |1-16 Transfer / Trade BCI |1-24 Overview of the report |
 
 </article>
 
