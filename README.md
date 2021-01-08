@@ -11,7 +11,7 @@ One of the most
 | Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_2.jpeg"></p>|<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_2_b.jpeg"></p>|
-|  <b>Book Name</b>   |   Brain Computer Interfaces  |
+|  <b>Book Name</b>   |   Basics of Brain and Computer Interfaces  |
 | <b>Authors</b>    |  S.Y.Moradi, M.H.Mohammadi|
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
@@ -25,7 +25,7 @@ One of the most
 <div class="nav">
 
 ## Contents
-* [Chapter 1](#chapter-1): <i>Brain Computer Interfaces</i>
+* [Chapter 1](#chapter-1): <i>Basics of Brain and Computer Interfaces</i>
 * [Chapter 2](#chapter-2): <i>Name of sensor technology</i>
 * [Chapter 3](#chapter-3): <i>Bio-non-biological interface</i>
 * [Chapter 4](#chapter-4): <i>BMI / BCI modeling and signal processing</i>
@@ -46,7 +46,7 @@ One of the most
 <article id="chapter-1">
 
 ## Chapter 1
-- ### Brain Computer Interfaces
+- ### Basics of Brain and Computer Interfaces
 Brain-computer communication deals with the creation of communication paths between the brain and external devices. BCI devices can be broadly classified depending on the electrodes' location to detect and measure neurons in the brain: In invasive devices, electrodes are placed on the scalp, and electroencephalography or electrocorticography is used detect neuronal activity. This WTEC study is designed to gather information on the global situation and trends in BCI research and disseminate it to government decision-makers and the research community. This study examines the state of sensor technology. It evaluates biocompatibility, data analysis and modeling, hardware implementation, device engineering, functional electrical stimulation, useful communication devices, and cognitive and emotional weakness in academic and industry research. The jury identified several key trends in evolving BCI research in North America, Europe, and Asia:<br>
 
 - BCI research is widespread around the world, and its size is increasing.<br>
