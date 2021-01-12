@@ -1,4 +1,4 @@
-# "Basics of Brain and Computer Interfaces"
+# "Basics of Brain and Computer Interfaces" (🔸Release March,2021)
 
 ---
 
